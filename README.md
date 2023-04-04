@@ -6,10 +6,9 @@ by Wen Wu, Wenya Yang, Weiyin Ma and Xiao-Diao Chen
 This implementation is written by Wen Wu at the Hangzhou Dianzi University.
 ***
 
-
-## Mix-USR dataset
 ![Data-spliting](figs/SDTR.jpg)
 
+## Mix-USR dataset
 | Dataset | URL |
 |----------|----------|
 | S-USR | [BaiduNetdisk](https://pan.baidu.com/s/1y42iytWurfEDFOXEuMXX0w)(osg1) |
