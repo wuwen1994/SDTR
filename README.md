@@ -19,7 +19,7 @@ This implementation is written by Wen Wu at the Hangzhou Dianzi University.
 
 ## Citation
 @article{wu2023sdtr,                  
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Wu, Wen and Yang, Wenya and Ma, Weiyin and Chen, Xiao-Diao},      
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Wu, Wen and Ma, Weiyin and Chen, Xiao-Diao},      
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {How many annotations do we need for generalizing new-coming shadow images?},      
 &nbsp;&nbsp;&nbsp;&nbsp;  journal = {IEEE Transactions on Circuits and Systems for Video Technology},       
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2023},      
