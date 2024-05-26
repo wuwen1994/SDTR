@@ -1,7 +1,7 @@
 # How Many Annotations Do We Need for Generalizing New-coming Shadow Images?
 
 
-by Wen Wu, Wenya Yang, Weiyin Ma and Xiao-Diao Chen
+by Wen Wu, Weiyin Ma and Xiao-Diao Chen
 
 This implementation is written by Wen Wu at the Hangzhou Dianzi University.
 ***
